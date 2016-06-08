@@ -1,2 +1,2 @@
 This is a test file for Git!
-
+Wow!Git is wonderful!
