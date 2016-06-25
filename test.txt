@@ -1,2 +1,3 @@
 This is a test file for Git!
 Wow!Git is wonderful!
+I'm very happy for studying git!
